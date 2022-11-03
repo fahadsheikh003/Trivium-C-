@@ -1,1 +1,1 @@
-# Trivium-C-
+# Trivium-in-CPP/CC
